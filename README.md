@@ -1,4 +1,4 @@
-### :octocat: devkittys rule! :octocat:
+### :octocat: devkitty*s rule! :octocat:
 
 <!--
 **permakitty/permakitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
